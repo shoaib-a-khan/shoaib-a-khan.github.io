@@ -1,5 +1,5 @@
 - name:
-    detail: Graduate Research Assistant at CS Dept. Purdue University
+    detail: CS @ Purdue University
     i18n: phd
   desc:
     detail: Since January 2017, I have been working as an RA under supervision of Distinguished Prof. Mike Atallah. We are in the process of developing practical multiparty protocols for private function evaluation & garbled computation. We plan to extend our protocols to the domain of privacy preserving data analytics & machine learning.
@@ -13,7 +13,7 @@
   icon: fa-search
 
 - name:
-    detail: Graduate Teaching Assistant at CS Dept. Purdue University
+    detail: CS @ Purdue University
     i18n: phd
   desc:
     detail: I served as a Graduate TA for CS182 Foundations of Computer Science in Fall 2016. I conducted tutorials and assisted in grading.
@@ -27,7 +27,7 @@
   icon: fa-book
 
 - name:
-    detail: Ph.D Candidate at CS Dept. Purdue University
+    detail: CS @ Purdue University
     i18n: phd
   desc:
     detail: I joined the CS Dept. at Purdue in Fall 2016 as a Ph.D candidate. I continue to pursue my Ph.D with a current focus on privacy, and practical security in a Multi-party setting.
@@ -41,10 +41,10 @@
   icon: fa-search
 
 - name:
-    detail: Teaching Fellow at CS Dept. of Information Technology University, Pakistan
+    detail: CS @ ITU, Pakistan
     i18n: itu
   desc:
-    detail: August 2015 - July 2016, I was a teaching fellow at ITU. During my wonderful stay there, I taught multiple undergraduate couses including i) Object Oriented Porgramming, ii) Discrete Structures,  iii) Design & Analysis of Alogrithms.
+    detail: August 2015 - July 2016, I was a teaching fellow at Information Technology University in Lahore, Pakistan. During my wonderful stay there, I taught multiple undergraduate couses including i) Object Oriented Porgramming, ii) Discrete Structures,  iii) Design & Analysis of Alogrithms.
     i18n: itu_des
   date:
     detail: Aug. 2015 - July. 2016
@@ -55,10 +55,10 @@
   icon: fa-book
 
 - name:
-    detail: Assistant Professor at CS Dept. of National University of Computer & Emerging Sciences, Pakistan
+    detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: From August 2012 to July 2015, I served as an Assistant Professor of Computer Science at NUCES. I taught various courses at both graduate and undergraduate level.
+    detail: From August 2012 to July 2015, I served as an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at both graduate and undergraduate level.
     i18n: nuces_des
   date:
     detail: Aug. 2012 - Jul. 2015
