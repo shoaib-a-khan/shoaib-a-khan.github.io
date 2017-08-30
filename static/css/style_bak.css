@@ -6711,11 +6711,21 @@ body.landing-page {
   width: 100%;
 }
 .landing-page .header-back.one {
-  background: url('../img/landing/header_one.jpg') 50% 0 no-repeat;
+  background: url('../img/landing/header_one.png') 50% 0 no-repeat;
 }
 .landing-page .header-back.two {
-  background: url('../img/landing/header_two.jpg') 50% 0 no-repeat;
+  background: url('../img/landing/header_two.png') 50% 0 no-repeat;
 }
+.landing-page .header-back.three {
+  background: url('../img/landing/header_three.png') 50% 0 no-repeat;
+}
+.landing-page .header-back.four {
+  background: url('../img/landing/header_four.png') 50% 0 no-repeat;
+}
+.landing-page .header-back.five {
+  background: url('../img/landing/header_five.png') 50% 0 no-repeat;
+}
+
 .landing-page .carousel {
   height: 470px;
 }
