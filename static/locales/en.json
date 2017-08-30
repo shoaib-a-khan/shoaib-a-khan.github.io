@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Shoaib's blog"
   },
   "nav":{
     "home": "Home",
@@ -14,7 +14,8 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data."
+    "des": "I am a researcher focusing on medical I am a researcher focusing on an intersection of privacy, security, data analytics, machine learning and theory.
+    I am interested also in auditing of algorithms, in particular automated selling agents. I strive for open source and data."
   },
   "skills":{
     "my_skills": "My Skills"
