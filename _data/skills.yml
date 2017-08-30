@@ -1,0 +1,47 @@
+- name: Information Security
+  percentage: 95
+
+- name: C/C++
+  percentage: 95
+
+- name: Machine Learning
+  percentage: 90
+
+- name: C-#
+  percentage: 90
+
+- name: Data Mining
+  percentage: 85
+
+- name: Java
+  percentage: 85
+
+- name: Alogrithms
+  percentage: 99
+
+- name: Python
+  percentage: 77
+
+- name: Cryptography
+  percentage: 90
+
+- name: Git
+  percentage: 80
+
+- name: Theory
+  percentage: 95
+
+- name: Linux/Unix
+  percentage: 85
+
+- name: Multi-party Computataion
+  percentage: 85
+
+- name: Latex
+  percentage: 95
+
+- name: Privacy Preserving Data Analytics
+  percentage: 75
+
+- name: HTML/CSS
+  percentage: 80
