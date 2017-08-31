@@ -67,7 +67,7 @@
     detail: Asssitant Professor
     i18n: nuces_job
   icon: fa-book
-
+  
 - name:
     detail: CS @ NUCES, Pakistan
     i18n: nuces
@@ -82,16 +82,16 @@
     i18n: nuces_job
   icon: fa-book
 
-  - name:
-      detail: Math @ University of South Florida
-      i18n: masters
-    desc:
-      detail: On the prestigious Fulbright Scholarship, and driven by my love for Theory, I was a masters student at Mathematics Dept. in USF. I wrote my thesis under the capable supervision of Prof. Brendan Nagle on application of Hypergraph Regularity Lemma in the design of approximation algorithms for hypergraphs.
-      i18n: masters_des
-    date:
-      detail: Aug. 2007 - May 2009
-      i18n: masters_date
-    job:
-      detail: Masters Degree
-      i18n: phd_job
-    icon: fa-graduation-cap
+- name:
+    detail: Math @ University of South Florida
+    i18n: masters
+  desc:
+    detail: On the prestigious Fulbright Scholarship, and driven by my love for Theory, I was a masters student at Mathematics Dept. in USF. I wrote my thesis under the capable supervision of Prof. Brendan Nagle on application of Hypergraph Regularity Lemma in the design of approximation algorithms for hypergraphs.
+    i18n: masters_des
+  date:
+    detail: Aug. 2007 - May 2009
+    i18n: masters_date
+  job:
+    detail: Masters Degree
+    i18n: phd_job
+  icon: fa-graduation-cap
