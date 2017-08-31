@@ -38,13 +38,13 @@
   job:
     detail: Ph.D Candidate
     i18n: phd_job
-  icon: fa-search
+  icon: fa-graduation-cap
 
 - name:
     detail: CS @ ITU, Pakistan
     i18n: itu
   desc:
-    detail: August 2015 - July 2016, I was a teaching fellow at Information Technology University in Lahore, Pakistan. During my wonderful stay there, I taught multiple undergraduate couses including i) Object Oriented Porgramming, ii) Discrete Structures,  iii) Design & Analysis of Alogrithms.
+    detail: I served as Teaching Fellow at the CS Dept. of Information Technology University in Lahore, Pakistan. During my wonderful stay there, I taught multiple undergraduate couses including i) Object Oriented Porgramming, ii) Discrete Structures,  iii) Design & Analysis of Alogrithms.
     i18n: itu_des
   date:
     detail: Aug. 2015 - July. 2016
@@ -58,7 +58,7 @@
     detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: From August 2012 to July 2015, I served as an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at both graduate and undergraduate level.
+    detail: I worked as an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at both graduate and undergraduate level.
     i18n: nuces_des
   date:
     detail: Aug. 2012 - Jul. 2015
@@ -66,4 +66,32 @@
   job:
     detail: Asssitant Professor
     i18n: nuces_job
-  icon: fa-search
+  icon: fa-book
+
+- name:
+    detail: CS @ NUCES, Pakistan
+    i18n: nuces
+  desc:
+    detail: After my Masters degree, I joined as a Lecturer, the CS Dept. at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at undergraduate level, and served in administrative committees.
+    i18n: nuces_des
+  date:
+    detail: Jun. 2009 - Jul. 2012
+    i18n: nuces_date
+  job:
+    detail: Lecturer
+    i18n: nuces_job
+  icon: fa-book
+
+  - name:
+      detail: Math @ University of South Florida
+      i18n: masters
+    desc:
+      detail: On the prestigious Fulbright Scholarship, and driven by my love for Theory, I was a masters student at Mathematics Dept. in USF. I wrote my thesis under the capable supervision of Prof. Brendan Nagle on application of Hypergraph Regularity Lemma in the design of approximation algorithms for hypergraphs.
+      i18n: masters_des
+    date:
+      detail: Aug. 2007 - May 2009
+      i18n: masters_date
+    job:
+      detail: Masters Degree
+      i18n: phd_job
+    icon: fa-graduation-cap
