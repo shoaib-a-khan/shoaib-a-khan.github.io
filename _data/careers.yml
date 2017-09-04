@@ -100,10 +100,10 @@
     detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: After my Bachelor's degree, I joined as a Instructor, the CS Dept. at my alma mater. I designed and conducted labs for various courses at undergraduate level.
+    detail: After my Bachelor's degree, I joined as an Instructor, the CS Dept. at my alma mater. I designed and conducted labs for various courses at undergraduate level.
     i18n: nuces_des
   date:
-    detail: Jun. 2009 - Jul. 2012
+    detail: Jun. 2005 - Jul. 2007
     i18n: nuces_date
   job:
     detail: Instructor
@@ -115,7 +115,7 @@
     i18n: bachelors
   desc:
     detail: I was an undergraduate student at CS Dept. of National University of Computer & Emerging Sciences, Lahore. My studies were funded by Punjab IT Board's prestigious "Outstanding Talent Scholarship".
-    i18n: masters_des
+    i18n: bachelors_des
   date:
     detail: Aug. 2001 - May 2005
     i18n: bachelors_date
