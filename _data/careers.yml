@@ -2,7 +2,7 @@
     detail: CS @ Purdue University
     i18n: phd
   desc:
-    detail: Since January 2017, I have been working as an RA under supervision of Distinguished Prof. Mike Atallah. We are in the process of developing practical multiparty protocols for private function evaluation & garbled computation. We plan to extend our protocols to the domain of privacy preserving data analytics & machine learning.
+    detail: Since January 2017, I have been fortunate to work as an RA under supervision of Distinguished Prof. Mike Atallah. We are in the process of developing practical multiparty protocols for private function evaluation & garbled computation. We plan to extend our protocols to the domain of privacy preserving data analytics & machine learning.
     i18n: phd_des
   date:
     detail: Jan. 2017 - To Date
@@ -16,7 +16,7 @@
     detail: CS @ Purdue University
     i18n: phd
   desc:
-    detail: I served as a Graduate TA for CS182 Foundations of Computer Science in Fall 2016. I conducted tutorials and assisted in grading.
+    detail: I served as a Graduate TA for CS182 Foundations of Computer Science in Fall 2016. My duties included conducting weekly tutorials and grading.
     i18n: phd_des
   date:
     detail: Aug. 2016 - Dec. 2016
@@ -44,7 +44,7 @@
     detail: CS @ ITU, Pakistan
     i18n: itu
   desc:
-    detail: I served as Teaching Fellow at the CS Dept. of Information Technology University in Lahore, Pakistan. During my wonderful stay there, I taught multiple undergraduate couses including i) Object Oriented Porgramming, ii) Discrete Structures,  iii) Design & Analysis of Alogrithms.
+    detail: I served as Teaching Fellow at the CS Dept. of Information Technology University in Lahore, Pakistan. During my wonderful stay there, I taught multiple undergraduate couses including i) Object Oriented Porgramming, ii) Discrete Structures,  iii) Design & Analysis of Alogrithms. I also served on the interview panel for new students.
     i18n: itu_des
   date:
     detail: Aug. 2015 - July. 2016
@@ -67,7 +67,7 @@
     detail: Asssitant Professor
     i18n: nuces_job
   icon: fa-book
-  
+
 - name:
     detail: CS @ NUCES, Pakistan
     i18n: nuces
@@ -92,6 +92,34 @@
     detail: Aug. 2007 - May 2009
     i18n: masters_date
   job:
-    detail: Masters Degree
-    i18n: phd_job
+    detail: Master's Degree
+    i18n: ms_degree
+  icon: fa-graduation-cap
+
+- name:
+    detail: CS @ NUCES, Pakistan
+    i18n: nuces
+  desc:
+    detail: After my Bachelor's degree, I joined as a Instructor, the CS Dept. at my alma mater. I designed and conducted labs for various courses at undergraduate level.
+    i18n: nuces_des
+  date:
+    detail: Jun. 2009 - Jul. 2012
+    i18n: nuces_date
+  job:
+    detail: Instructor
+    i18n: nuces_job
+  icon: fa-book
+
+- name:
+    detail: CS @ NUCES, Pakistan
+    i18n: bachelors
+  desc:
+    detail: I was an undergraduate student at CS Dept. of National University of Computer & Emerging Sciences, Lahore. My studies were funded by Punjab IT Board's prestigious "Outstanding Talent Scholarship".
+    i18n: masters_des
+  date:
+    detail: Aug. 2001 - May 2005
+    i18n: bachelors_date
+  job:
+    detail: Bachelor's Degree
+    i18n: bs_degree
   icon: fa-graduation-cap
