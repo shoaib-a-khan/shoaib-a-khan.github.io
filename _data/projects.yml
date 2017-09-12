@@ -1,4 +1,4 @@
- - name: 'Pehchan - ML based OCR tool for Urdu Script'
+ - name: 'Pehchan'
    i18n: 'ocr'
    url: '/shoaib-a-khan/NN-based-OCR-for-Urdu-Script'
    img: 'static/img/landing/ocr.jpg'
