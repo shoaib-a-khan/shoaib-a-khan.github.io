@@ -58,7 +58,7 @@ h5 {
 }
 .nav.navbar-top-links > li > a:hover,
 .nav.navbar-top-links > li > a:focus {
-  background-color: #1C86EE;
+  background-color: transparent;
 }
 .nav > li > a i {
   margin-right: 6px;
@@ -67,7 +67,7 @@ h5 {
   border: 0;
 }
 .navbar-default {
-  background-color: #1C86EE;
+  background-color: transparent;
   border-color: #2f4050;
 }
 .navbar-top-links li {
