@@ -2,7 +2,7 @@
     detail: CS @ Purdue University
     i18n: phd
   desc:
-    detail: Since January 2017, I have been fortunate to work as an RA under supervision of Distinguished Prof. Mike Atallah. We are in the process of developing practical multiparty protocols for private function evaluation & garbled computation. We plan to extend our protocols to the domain of privacy preserving data analytics & machine learning.
+    detail: Since Jan 2017, I have been fortunate to work as an RA under supervision of Distinguished Prof. Mike Atallah. We are in the process of developing practical multiparty protocols for private function evaluation & garbled computation. We plan to extend our protocols to the domain of privacy preserving data analytics & machine learning.
     i18n: phd_des
   date:
     detail: Jan. 2017 - To Date
