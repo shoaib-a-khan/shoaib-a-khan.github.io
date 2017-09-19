@@ -58,7 +58,7 @@
     detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: I worked as an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at both graduate and undergraduate level. Additionally, I served as a mentor for multiple undergrad final year projects. Some of these projects won awards at international software competitions.
+    detail: As an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences, I taught various courses including: i) Theory of Computation (Grad), ii) Data Structures in C++, iii) Design & Analysis of Algorithms, iv) Computer Logic & Design, v) Discrete Structures. Additionally, I served as a mentor for multiple undergrad final year projects. Some of these projects won awards at international software competitions.
     i18n: nuces_des
   date:
     detail: Aug. 2012 - Jul. 2015
@@ -72,7 +72,7 @@
     detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: After my Masters degree, I joined as a Lecturer, the CS Dept. at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at undergraduate level, and served in administrative committees.
+    detail: After my Masters degree, I joined as a Lecturer, the CS Dept. at National University of Computer & Emerging Sciences in Lahore, Pakistan. I taught various courses at undergraduate level, and served in multiple administrative committees.
     i18n: nuces_des
   date:
     detail: Jun. 2009 - Jul. 2012
@@ -100,7 +100,7 @@
     detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: After my Bachelor's degree, I joined as an Instructor, the CS Dept. at my alma mater. I designed and conducted labs for various courses at undergraduate level.
+    detail: After my Bachelor's degree, I joined as an Instructor, the CS Dept. at my alma mater. During my stay, I designed and conducted labs for various courses at undergraduate level.
     i18n: nuces_des
   date:
     detail: Jun. 2005 - Jul. 2007
