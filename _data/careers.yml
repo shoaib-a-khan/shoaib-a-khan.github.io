@@ -58,7 +58,7 @@
     detail: CS @ NUCES, Pakistan
     i18n: nuces
   desc:
-    detail: As an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences, I taught various courses including: i) Theory of Computation (Grad), ii) Data Structures in C++, iii) Design & Analysis of Algorithms, iv) Computer Logic & Design, v) Discrete Structures. Additionally, I served as a mentor for multiple undergrad final year projects. Some of these projects won awards at international software competitions.
+    detail: As an Assistant Professor of Computer Science at National University of Computer & Emerging Sciences, I taught various courses including i) Theory of Computation (Grad), ii) Data Structures in C++, iii) Design & Analysis of Algorithms, iv) Computer Logic & Design, v) Discrete Structures. Additionally, I served as a mentor for multiple undergrad final year projects. Some of these projects won awards at international software competitions.
     i18n: nuces_des
   date:
     detail: Aug. 2012 - Jul. 2015
