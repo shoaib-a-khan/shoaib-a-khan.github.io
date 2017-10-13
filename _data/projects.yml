@@ -10,13 +10,13 @@
    img: 'static/img/landing/icona.jpg'
    desc: 'An open source iOS to Android App Conversion tool. I was the project mentor.'
 #
- - name: 'TCP GBN'
+ - name: 'TCP-GBN'
    i18n: 'tcp-gbn'
    url: '/shoaib-a-khan/TCP-Go-Back-N-Simulation'
    img: 'static/img/landing/GBN-sm.png'
    desc: 'C-based simulation of Network Stack's layer 4 TCP Go-Back-N protocol.'
 #
- - name: 'TCP SnW'
+ - name: 'TCP-SnW'
    i18n: 'tcp-snw'
    url: '/shoaib-a-khan/TCP-Stop-and-Wait-Simulation'
    img: 'static/img/landing/snw.png'
