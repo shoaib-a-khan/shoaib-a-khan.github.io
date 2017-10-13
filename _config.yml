@@ -4,7 +4,7 @@ google_analytics: UA-106466920-1
 # Website settings
 title: "Shoaib A. Khan"
 description: "Personal website of Shoaib A. Khan"
-keywords: "Shoaib Amjad Khan, security, privacy, analytics, algorithims"
+keywords: "Shoaib Amjad Khan, security, privacy, analytics, machine learning, algorithims"
 baseurl: "/"
 url: "http://shoaib-a-khan.github.io"
 # url: "http://127.0.0.1:4000"
