@@ -5,8 +5,8 @@
    desc: 'Repository associated with our Neural Nets based OCR tool for Urdu Nastaleeq Script.'
 #
  - name: 'TCP Go-Back-N'
-   i18n: 'icona'
-   url: '/shoaib-a-khan/iConA'
+   i18n: 'tcp-gbn'
+   url: '/shoaib-a-khan/TCP-Go-Back-N-Simulation'
    img: 'static/img/landing/icona.jpg'
    desc: 'An open source iOS to Android App Conversion tool. I was the project mentor.'
 #
