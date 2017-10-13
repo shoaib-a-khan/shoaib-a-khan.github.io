@@ -16,8 +16,9 @@
    img: 'static/img/landing/GBN-sm.png'
    desc: 'C-based simulation of Network Stack's layer 4 TCP Go-Back-N protocol.'
 #
- - name: 'TCP-SnW'
+ - name: 'TCPSnW'
    i18n: 'tcp-snw'
    url: '/shoaib-a-khan/TCP-Stop-and-Wait-Simulation'
    img: 'static/img/landing/snw.png'
    desc: 'C-based simulation of Network Stack's layer 4 TCP Stop and Wait ARQ protocol.'
+#
