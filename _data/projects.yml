@@ -7,8 +7,8 @@
  - name: 'TCP Go-Back-N'
    i18n: 'tcp-gbn'
    url: '/shoaib-a-khan/TCP-Go-Back-N-Simulation'
-   img: 'static/img/landing/icona.jpg'
-   desc: 'An open source iOS to Android App Conversion tool. I was the project mentor.'
+   img: 'static/img/landing/gbn.jpg'
+   desc: 'C-based simulation of Network Stack's layer 4 TCP Go-Back-N protocol.'
 #
  - name: 'iConA'
    i18n: 'icona'
