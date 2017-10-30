@@ -22,3 +22,9 @@
    img: 'static/img/landing/snw.png'
    desc: 'C-based simulation of Network Stack layer 4 TCP Stop and Wait ARQ protocol.'
 #
+ - name: 'Distance Vector Routing'
+   i18n: 'dv-routing'
+   url: '/shoaib-a-khan/Distance-Vector-Routing-Protocol'
+   img: 'static/img/landing/dv.png'
+   desc: 'A C-based Simulation of Distance Vector Routing Protocol (Distributed Bellman-Ford Algorithm).'
+#
