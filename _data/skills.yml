@@ -7,7 +7,7 @@
 - name: Machine Learning
   percentage: 90
 
-- name: C-#
+- name: C#
   percentage: 90
 
 - name: Data Mining
@@ -26,7 +26,7 @@
   percentage: 90
 
 - name: Git
-  percentage: 80
+  percentage: 85
 
 - name: Theory
   percentage: 95
